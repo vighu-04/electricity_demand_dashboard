@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Local database
+predictions.db
+
+# Environment variables (if you ever add them)
+.env
