@@ -1,9 +1,5 @@
-# Python virtual environment
 venv/
 __pycache__/
-
-# Local database
+*.pyc
 predictions.db
-
-# Environment variables (if you ever add them)
-.env
+.streamlit/
